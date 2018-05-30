@@ -4,6 +4,8 @@ Merge Styles
 
 [![Build Status](https://travis-ci.org/jasonleibowitz/merge-styles.svg?branch=master)](https://travis-ci.org/jasonleibowitz/merge-styles)
 [![Coverage Status](https://coveralls.io/repos/github/jasonleibowitz/merge-styles/badge.svg?branch=master)](https://coveralls.io/github/jasonleibowitz/merge-styles?branch=master)
+[![npm](https://img.shields.io/npm/v/npm-package.png?style=flat-square)](https://www.npmjs.com/package/@jasonleibowitz/merge-styles)
+
 
 
 Simple JS Utility to merge multiple classnames together. I use this in my react apps to make components easily themeable via a theme prop.
