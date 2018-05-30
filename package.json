@@ -1,5 +1,5 @@
 {
-  "name": "merge-styles",
+  "name": "mergestyles",
   "version": "1.0.0",
   "description": "Simple utility to merge classnames for theming",
   "main": "lib/index.js",

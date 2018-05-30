@@ -3,7 +3,7 @@ module.exports = {
   npm: {
     esModules: true,
     umd: {
-      global: 'merge-styles',
+      global: 'mergestyles',
       externals: {}
     }
   }
