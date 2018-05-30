@@ -1,4 +1,4 @@
-# mergestyles
+# @jasonleibowitz/merge-styles
 
 Merge Styles
 
